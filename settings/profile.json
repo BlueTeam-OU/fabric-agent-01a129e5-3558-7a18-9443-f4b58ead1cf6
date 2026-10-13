@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "agent_id": "01a129e5-3558-7a18-9443-f4b58ead1cf6",
+  "first_name": "Tereza",
+  "surname": "Purkyne",
+  "sex": "F",
+  "avatar": {
+    "file": "settings/avatar.png",
+    "sha256": "14f061b4897994fb6ce855bf7c9e8ebf4749b69aca85ef94368bc35cea323918",
+    "candidate": 1
+  },
+  "accepted": "2026-10-13"
+}
